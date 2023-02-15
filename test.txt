@@ -1,1 +1,1 @@
-main branch에서 수정한 파일입니다.
+main branch, develop branch 두개의 branch에서 수정한 파일입니다.
